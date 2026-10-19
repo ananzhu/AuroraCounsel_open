@@ -142,20 +142,7 @@ AuroraCounsel 由三个核心模块组成：
 
 AuroraCounsel 是面向科研的心理咨询对话原型。尽管系统通过 `AC-Reflect`、危机预警和人工评估机制提升安全性，模型输出 **不能用于医学诊断，也不能替代专业医疗决策或临床干预**。在真实应用前，需要引入专业监管、隐私保护、风险筛查和紧急转介机制。
 
-## 引用
 
-如果本项目对您的研究有帮助，请引用：
-
-```bibtex
-@inproceedings{
-anonymous2026auroracounsel,
-title={AuroraCounsel: A Multi-Agent Large Language Model Collaboration Framework for Psychological Counseling},
-author={Yuean Zhu、Zichao Song、Haiming Luo},
-booktitle={The 2026 Conference on Empirical Methods in Natural Language Processing},
-year={2026},
-url={https://openreview.net/forum?id=hvHVxd6yvS}
-}
-```
 
 ## 联系方式
 
