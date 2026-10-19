@@ -147,12 +147,13 @@ AuroraCounsel 是面向科研的心理咨询对话原型。尽管系统通过 `A
 如果本项目对您的研究有帮助，请引用：
 
 ```bibtex
-@inproceedings{zhu-etal-2026-auroracounsel,
-  title     = "{AuroraCounsel}: A Multi-Agent Large Language Model Collaboration Framework for Psychological Counseling",
-  author    = "Zhu, Yuean and Song, Zichao and Luo, Haiming",
-  booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)",
-  year      = "2026",
-  url       = "https://github.com/ananzhu/AuroraCousel_open"
+@inproceedings{
+anonymous2026auroracounsel,
+title={AuroraCounsel: A Multi-Agent Large Language Model Collaboration Framework for Psychological Counseling},
+author={Yuean Zhu、Zichao Song、Haiming Luo},
+booktitle={The 2026 Conference on Empirical Methods in Natural Language Processing},
+year={2026},
+url={https://openreview.net/forum?id=hvHVxd6yvS}
 }
 ```
 
@@ -160,7 +161,3 @@ AuroraCounsel 是面向科研的心理咨询对话原型。尽管系统通过 `A
 
 - Yuean Zhu: `zhuyuean@jyu.edu.cn`
 - Zichao Song: `songzichao084@gmail.com`
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ananzhu/AuroraCousel_open&type=Date)](https://www.star-history.com/#ananzhu/AuroraCousel_open&Date)
