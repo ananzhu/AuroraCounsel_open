@@ -39,6 +39,7 @@
 | 论文 PDF | [AuroraCounsel_EMNLP2026.pdf](./paper/AuroraCounsel_EMNLP2026.pdf) |
 | 海报 PDF | [AuroraCounsel_EMNLP2026_A0.pdf](./poster/AuroraCounsel_EMNLP2026_A0.pdf) |
 | GitHub | [ananzhu/AuroraCousel_open](https://github.com/ananzhu/AuroraCousel_open) |
+| Huggingface | [sunear/AuroraCousel](https://huggingface.co/sunear/AuroraCounsel) |
 
 ## 方法
 
