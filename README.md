@@ -35,7 +35,7 @@
 
 | 资源 | 链接 |
 |:---|:---|
-| arXiv / ACL Anthology |[AuroraCounsel](https://aclanthology.org/2026.emnlp-main.132/)) |
+| arXiv / ACL Anthology |[AuroraCounsel](https://aclanthology.org/2026.emnlp-main.132/) |
 | 论文 PDF | [AuroraCounsel_EMNLP2026.pdf](./paper/AuroraCounsel_EMNLP2026.pdf) |
 | 海报 PDF | [AuroraCounsel_EMNLP2026_A0.pdf](./poster/AuroraCounsel_EMNLP2026_A0.pdf) |
 | GitHub | [ananzhu/AuroraCounsel_open](https://github.com/ananzhu/AuroraCounsel_open) |
