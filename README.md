@@ -35,11 +35,11 @@
 
 | 资源 | 链接 |
 |:---|:---|
-| arXiv / ACL Anthology | 待正式页面发布后更新 |
+| arXiv / ACL Anthology |[AuroraCounsel](https://aclanthology.org/2026.emnlp-main.132/)) |
 | 论文 PDF | [AuroraCounsel_EMNLP2026.pdf](./paper/AuroraCounsel_EMNLP2026.pdf) |
 | 海报 PDF | [AuroraCounsel_EMNLP2026_A0.pdf](./poster/AuroraCounsel_EMNLP2026_A0.pdf) |
-| GitHub | [ananzhu/AuroraCousel_open](https://github.com/ananzhu/AuroraCousel_open) |
-| Huggingface | [sunear/AuroraCousel](https://huggingface.co/sunear/AuroraCounsel) |
+| GitHub | [ananzhu/AuroraCounsel_open](https://github.com/ananzhu/AuroraCounsel_open) |
+| Huggingface | [sunear/AuroraCounsel](https://huggingface.co/sunear/AuroraCounsel) |
 
 ## 方法
 
